@@ -1,0 +1,58 @@
+export default [
+	{
+		title: "Getting Started",
+		content: "",
+		_meta: {
+			filePath: "01-started/index.md",
+			fileName: "index.md",
+			directory: "01-started",
+			extension: "md",
+			path: "01-started",
+		},
+		slug: "started",
+		sectionId: "01-started",
+		version: "01-started",
+	},
+	{
+		title: "Configuration",
+		content: "",
+		_meta: {
+			filePath: "02-configuration/index.md",
+			fileName: "index.md",
+			directory: "02-configuration",
+			extension: "md",
+			path: "02-configuration",
+		},
+		slug: "configuration",
+		sectionId: "02-configuration",
+		version: "02-configuration",
+	},
+	{
+		title: "Features",
+		content: "",
+		_meta: {
+			filePath: "03-features/index.md",
+			fileName: "index.md",
+			directory: "03-features",
+			extension: "md",
+			path: "03-features",
+		},
+		slug: "features",
+		sectionId: "03-features",
+		version: "03-features",
+	},
+	{
+		title: "Guides",
+		content: "",
+		_meta: {
+			filePath: "04-guides/index.md",
+			fileName: "index.md",
+			directory: "04-guides",
+			extension: "md",
+			path: "04-guides",
+		},
+		slug: "guides",
+		sectionId: "04-guides",
+		version: "04-guides",
+	},
+]

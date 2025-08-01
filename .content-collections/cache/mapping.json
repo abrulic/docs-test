@@ -1,0 +1,23 @@
+{
+	"section": { "01-started": [], "02-configuration": [], "03-features": [], "04-guides": [] },
+	"page": {
+		"_index": ["9d9b4eac2efe4e0fe8d57f1138806a3f419c310f86dcaede2c5b180bc856b5c2"],
+		"01-started/01-installation": ["e150c0feb3f0c35e55b70276cdc15a1ee3249f391595679cd35da72fe7eba906"],
+		"02-configuration/01-general": ["e7c3cf953fbacd8e8010ca99e483b4bad38da6c46e14497935c41c6c0860612c"],
+		"02-configuration/02-client": ["19e7257cf5b27bc5f34cdb545ba7a6dc8d202c73b19a7347ae5ac46cfaf9a52e"],
+		"02-configuration/03-editor": ["e3e9a3a58620f60eef98082614c25e451dc26b5f1cf82bd62d53957743a008f7"],
+		"02-configuration/04-server": ["84de10b6db858d3992b0087dc188d2a009c0ed5ee61840b3fd36260f9a7b1d9b"],
+		"03-features/01-shortcuts": ["8495b1e15ac8bc0dd19e3beace32bedca79228a3117896c349a10464a3c70bcb"],
+		"03-features/02-devtools": ["b27049a8277804d8dee7506e0fd4594ec7be71d661412cf3546a6384e6dc58b2"],
+		"03-features/03-active-page-tab": ["dab21b05c438f21f5a2bee9810e18614f476fc11570d313aafe7dae55b78e49b"],
+		"03-features/04-routes-tab": ["70102a4c1a116bb599a6cc5cb2d83fab3eb59d2e68b3f39c0cf83125eadc07a0"],
+		"03-features/05-network-tab": ["5c267232a6ca4639a7bf080e42a996cbcab2ab973addb39e581abe38a02317c1"],
+		"03-features/06-errors-tab": ["015205a168e199acdf4cddc462ecd5268f87d229085403f2b92590ff4e48c1e7"],
+		"03-features/07-settings-tab": ["0f016ac0a005a95d36f35d5944cc717252c2afcffa10c2899ab895dc826a8e36"],
+		"03-features/08-detach": ["44c6203bdf5148aac5fd4c8d79caaba269be3bbe32890df4453084ff1950173b"],
+		"04-guides/01-migration": ["36338e3806f88d2e3ea5831f4e0e7ee64a237bf4724df1760ad50d9d435e602a"],
+		"04-guides/02-plugins": ["71b892bde89f74486505e172b61ef6b8808a96a3706039552c726812b63243ce"],
+		"04-guides/04-hydrogen-oxygen": ["2296793dc1dd8372e47f9e28efcb7e8246578ada17f0540ae0351a7927e7c08c"],
+		"04-guides/05-contributing": ["fa17f77a3f4590a002eb919d02e17fc20882efbcd264a21710a64a4180f0fa00"]
+	}
+}
